@@ -17,7 +17,7 @@ Algunas aplicaciones en este repositorio son **propietarias** y no pueden ser co
 - No uses aplicaciones propietarias sin permiso expreso del autor.
 
 ## 📫 Contacto
-Si tienes preguntas o deseas solicitar permisos para usar una aplicación privada, puedes comunicarte conmigo a través de [tu contacto aquí].
+Si tienes preguntas o deseas solicitar permisos para usar una aplicación privada, puedes comunicarte conmigo a través de **Not available**.
 
 ---
 🛠️ **Desarrollado por lokuedo5000**
